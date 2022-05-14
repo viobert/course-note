@@ -49,7 +49,7 @@
 
 + XOR $\bigoplus$ 有一个十分重要的性质：
 
-  X an idenp. Uniform var. on {0,1}$^n$        X是独立的随机变量在{0,1}$^n$均匀分布               Y an rand. var over {0,1}$^n$
+  X an idenp. Uniform var. on $`\{0,1\}^n`$        X是独立的随机变量在{0,1}$^n$均匀分布               Y an rand. var over {0,1}$^n$
 
   若 Z := X $\bigoplus$ Y 当我们可以确定变量X是均匀分布的且X, Y独立，那么Z依然是均匀分布的（即便Y是malicious distribution 恶意分布的）。
 
